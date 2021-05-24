@@ -39,10 +39,10 @@ const backgroundmenuimg = `https://i.imgur.com/tVKFNFk.png`
 const apikeyimgbb = 'f803ac10228ceed0df2420dd9d797c8a'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
+const cr = '@𝐟𝐢𝐠𝐮𝐫𝐢𝐧𝐡𝐚𝐬_𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩\n' 
 // texto do simbolo de verificado
 
-const prefix = '!' 
+const prefix = '/' 
 // prefixo
 
 const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
