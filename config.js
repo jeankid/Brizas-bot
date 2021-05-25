@@ -23,7 +23,7 @@ const byemsgimg = (numero, groupname) => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname, battery) => {
-    return `MENU DO @figurinhas_whatsapp, BATERIA: ${battery}`
+    return `MENU DO FIGURINHAS_WHATSAPP, BATERIA: ${battery}`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
@@ -39,7 +39,7 @@ const backgroundmenuimg = `https://i.imgur.com/tVKFNFk.png`
 const apikeyimgbb = 'f803ac10228ceed0df2420dd9d797c8a'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '@𝐟𝐢𝐠𝐮𝐫𝐢𝐧𝐡𝐚𝐬_𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩\n' 
+const cr = '@figurinhas_whatsapp\n' 
 // texto do simbolo de verificado
 
 const prefix = '/' 
