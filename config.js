@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["558291099267@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '558291099267' 
 // mude para seu numero
 
 var gimagenotregister = true
@@ -23,7 +23,7 @@ const byemsgimg = (numero, groupname) => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname, battery) => {
-    return `MENU DO BRIZAS-BOT COM 363 COMANDOS, BATERIA: ${battery}`
+    return `MENU DO FIGURINHA_SWHATSAPP, BATERIA: ${battery}`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
@@ -39,7 +39,7 @@ const backgroundmenuimg = `https://i.imgur.com/tVKFNFk.png`
 const apikeyimgbb = 'f803ac10228ceed0df2420dd9d797c8a'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
+const cr = '@figurinhas_whatsapp\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -48,7 +48,7 @@ const prefix = '!'
 const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
+const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propietário do bot para saber o pq🚫*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
